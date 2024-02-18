@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// printing from 1-4  by inputing the  number = n.
 int main() {
 
 
