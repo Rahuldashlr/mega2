@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// In the below code we use the following to determine the a-z & A-Z & 1-9 using the folowing veriables.
 int main(){
 
     char a;
