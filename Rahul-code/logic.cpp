@@ -15,7 +15,7 @@ while(i<=n) {
     i=i+1;
 
 }
-
+//logic op 5
 
 return 0;
 }
