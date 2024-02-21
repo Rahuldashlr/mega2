@@ -17,6 +17,11 @@ int main(){
     else if ( a>='0' && a<='9') {
     cout << " Numbers " <<endl; 
     }
+
+    else if ( a>='a' && a<='z') {
+    cout << " lower " <<endl; 
+    }
+
 return 0;
  
 }
